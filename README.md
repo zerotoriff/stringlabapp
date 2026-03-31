@@ -1,18 +1,46 @@
 # ZeroToRiff 🎸
-# stringlabapp
-Beginner guitar learning app with tabs + community”
 
-Learn guitar from zero to your first riff.
+Learn guitar from zero to your first riff — fast.
 
-## What this is
-A beginner-friendly guitar system with:
-- Step-by-step lessons
-- Tabs library
-- Practice tools
+---
 
-## Built by
-Wayne | Creator of ZeroToRiff
+## 🚀 Start Here
 
-## Coming Soon
-- Community features
-- AI-generated practice routines
+👉 Get the Starter Pack: https://yourgumroadlink.com
+👉 Watch Free Lessons: https://youtube.com/yourchannel
+
+---
+
+## 🎯 What This Repo Contains
+
+* 🎥 Viral video scripts
+* 📚 Guitar learning resources
+* 🎸 Beginner-friendly tabs
+* 🧠 Practice systems
+
+---
+
+## 📁 Structure
+
+* /scripts → content & video ideas
+* /products → paid resources
+* /app → ZeroToRiff app build
+* /assets → branding
+
+---
+
+## 🔥 Mission
+
+Help beginners play their first riff as fast as possible.
+
+---
+
+## 🤝 Collaborate
+
+Looking for:
+
+* Developers
+* Guitarists
+* Content creators
+
+Let’s build this together.
