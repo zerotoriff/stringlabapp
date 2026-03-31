@@ -6,8 +6,8 @@ Learn guitar from zero to your first riff — fast.
 
 ## 🚀 Start Here
 
-👉 Get the Starter Pack: https://yourgumroadlink.com
-👉 Watch Free Lessons: https://youtube.com/yourchannel
+👉 Get the Starter Pack: https://wawne.gumroad.com/l/stringlabpremium
+👉 Watch Free Lessons: https://www.youtube.com/@zerotoriff
 
 ---
 
